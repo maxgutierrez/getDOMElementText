@@ -1,8 +1,7 @@
 
 # Título do Projeto
 
-Descrição curta do projeto.
-
+Uma função que usa puppeteer para extrair um texto apartir de um site e um DOM Element
 ## Como Começar
 
 Instruções sobre como começar a usar o projeto.
