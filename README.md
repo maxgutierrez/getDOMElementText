@@ -10,7 +10,7 @@ Before using this code, ensure that you have Puppeteer installed as a dependency
 
 ```bash
 npm install puppeteer
-Usage
+# Usage
 Import the getElementText function in your JavaScript file:
 javascript
 Copy code
